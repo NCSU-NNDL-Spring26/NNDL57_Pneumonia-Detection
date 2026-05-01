@@ -1,1 +1,0 @@
-# NNDL57_Pneumonia-Detection
